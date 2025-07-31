@@ -46,9 +46,9 @@ YData Profiling : Automated data profiling & cleaning report
 
 Group C Interns Team Members:
 
-Perisetla Lochan Sri Sai
-S.Sowravkanth
-Thirumal N
-Hrithik Y
-Abarnaa K
+Perisetla Lochan Sri Sai, 
+S.Sowravkanth, 
+Thirumal N, 
+Hrithik Y, 
+Abarnaa K, 
 GuruRajan GaneshBabu
